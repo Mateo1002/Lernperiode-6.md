@@ -19,6 +19,14 @@ Mich mit C#, HTML, CSS wieder vertraut machen und mein Wissen in diesen Bereiche
 Wenigsten ein Projekt beginnen welches ich Vorzeigen könnte.
 
 ## Planung 16.10.2026
-- [ ] Mich für ein Projekt entscheiden
-- [ ] Meine Anforderungen aufschreiben
+- [x] Mich für ein Projekt entscheiden
+- [x] Meine Anforderungen aufschreiben
 - [ ] Eine Anforderungsanalyse mit meinen Anforderungen schreiben
+
+## Reflexion
+Ich entschied mich recht schnell dafür einen Text based Dungeon crawler mit C# zu machen und das schreiben einer Anforderungsanalyse ging recht mühsam voran da ich meine Kopfhörer Zuhause vergessen hatte. Also wurde ich noch nicht ganz fertig mit den Anforderungen und konnte mit der Anforderungsanalyse natürlich auch noch nicht beginnen.
+
+## Planung 23.10.2026
+- [ ] Die Anforderungen fertig schreiben
+- [ ] Eine Anforderungsanalyse schreiben
+- [ ] Beginnen die Machbarkeit des Projektes zu testen
