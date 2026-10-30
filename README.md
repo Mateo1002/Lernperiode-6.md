@@ -30,8 +30,14 @@ Ich entschied mich recht schnell dafür einen Text based Dungeon crawler mit C# 
 Arbeit am Modul laut Plan M346v3.
 
 ## Planung 30.10.2026
-- [ ] Aufträge für LB1 in Modul 346 beenden
-- [ ] Mich auf die LB vorbereiten
+- [x] Aufträge für LB1 in Modul 346 beenden
+- [x] Mich auf die LB vorbereiten
 - [ ] Die Anforderungen fertig schreiben
 
 ## Reflexion
+Ich konnte einfach arbeiten da es im Raum in welchem ich das tat es sehr leise war. 
+
+## Planung 06.11.2026
+- [ ] Die Anforderungen beenden
+- [ ] Eine Anforderungsanalyse schreiben
+- [ ] Machbarkeits-Tests schreiben
