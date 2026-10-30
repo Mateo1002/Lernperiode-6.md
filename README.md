@@ -26,7 +26,12 @@ Wenigsten ein Projekt beginnen welches ich Vorzeigen könnte.
 ## Reflexion
 Ich entschied mich recht schnell dafür einen Text based Dungeon crawler mit C# zu machen und das schreiben einer Anforderungsanalyse ging recht mühsam voran da ich meine Kopfhörer Zuhause vergessen hatte. Also wurde ich noch nicht ganz fertig mit den Anforderungen und konnte mit der Anforderungsanalyse natürlich auch noch nicht beginnen.
 
-## Planung 23.10.2026
+## Reflexion 30.10.2026
+Arbeit am Modul laut Plan M346v3.
+
+## Planung 30.10.2026
+- [ ] Aufträge für LB1 in Modul 346 beenden
+- [ ] Mich auf die LB vorbereiten
 - [ ] Die Anforderungen fertig schreiben
-- [ ] Eine Anforderungsanalyse schreiben
-- [ ] Beginnen die Machbarkeit des Projektes zu testen
+
+## Reflexion
