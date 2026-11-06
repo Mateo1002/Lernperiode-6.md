@@ -38,6 +38,7 @@ Arbeit am Modul laut Plan M346v3.
 Ich konnte einfach arbeiten da es im Raum in welchem ich das tat es sehr leise war. 
 
 ## Planung 06.11.2026
+- [ ] Durch ankommen der Bildschirme unbeendete Aufträge im Modul 346 beenden
 - [ ] Die Anforderungen beenden
 - [ ] Eine Anforderungsanalyse schreiben
 - [ ] Machbarkeits-Tests schreiben
